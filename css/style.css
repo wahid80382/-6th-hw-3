@@ -1,0 +1,32 @@
+* {
+    padding: 0px;
+    outline: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+input {
+    width: 370px;
+    height: 40px;
+
+}
+
+select {
+    width: 80px;
+    border: none;
+    background-color: white;
+    font-size: large;
+}
+li {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 22px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    font-size: 26px;
+}
